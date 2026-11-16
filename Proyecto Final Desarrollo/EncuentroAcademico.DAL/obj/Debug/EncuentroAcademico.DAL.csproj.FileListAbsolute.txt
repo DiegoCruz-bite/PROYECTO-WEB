@@ -1,0 +1,9 @@
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\bin\Debug\EncuentroAcademico.DAL.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\bin\Debug\EncuentroAcademico.DAL.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\bin\Debug\EncuentroAcademico.Entities.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\bin\Debug\EncuentroAcademico.Entities.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\obj\Debug\EncuentroAcademico.DAL.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\obj\Debug\EncuentroAcademico.DAL.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\obj\Debug\Encuentr.CA28477C.Up2Date
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\obj\Debug\EncuentroAcademico.DAL.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.DAL\obj\Debug\EncuentroAcademico.DAL.pdb

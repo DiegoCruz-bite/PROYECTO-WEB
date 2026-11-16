@@ -1,0 +1,18 @@
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.csprojResolveAssemblyReference.cache
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\EncuentroAcademico.Entities.dll
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\EncuentroAcademico.Entities.pdb
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\mscorlib.dll
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\es\mscorlib.resources.dll
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\normidna.nlp
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\normnfc.nlp
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\normnfd.nlp
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\normnfkc.nlp
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\bin\Debug\normnfkd.nlp
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.dll
+C:\Users\histo\Downloads\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\bin\Debug\EncuentroAcademico.Entities.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\bin\Debug\EncuentroAcademico.Entities.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico.Entities\obj\Debug\EncuentroAcademico.Entities.pdb

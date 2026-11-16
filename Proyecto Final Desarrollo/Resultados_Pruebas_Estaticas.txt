@@ -1,0 +1,10 @@
+PRUEBAS ESTÁTICAS
+- PASS: compilaron Entidades, DAL (incluido AcademicoRepository), BLL (incluido AcademicoService) y el código servidor de Portal.aspx referenciando las capas.
+- PASS: contraseña de demostración Demo2026! genera el hash PBKDF2 que guarda el script SQL.
+- PASS: Web.config y los archivos .csproj son XML válido; Portal.aspx está incluido en ambos proyectos.
+- PASS: el script SQL contiene TipoActividad, ActividadAcademica, InscripcionActividad, UsuarioAcceso y datos ficticios iniciales.
+- PASS: ambos portales tienen resumen, alta/edición/cancelación de actividades, búsqueda, inscripción/cancelación y menú desplegable.
+- PASS: siguen aprobadas las 9 validaciones previas del formulario académico (9 aprobadas, 0 fallidas).
+
+NO VERIFICADO EN EJECUCIÓN
+No fue posible ejecutar el sitio ni probar INSERT/SELECT/UPDATE contra SQL Server: este equipo no tiene una instancia SQL Server disponible y carece del host/targeting pack Web Forms. Para una prueba integrada, ejecuta 01_BaseDeDatos.sql en SQL Server Management Studio, configura Data Source en Web.config y abre la solución en Visual Studio con ASP.NET Web Forms.

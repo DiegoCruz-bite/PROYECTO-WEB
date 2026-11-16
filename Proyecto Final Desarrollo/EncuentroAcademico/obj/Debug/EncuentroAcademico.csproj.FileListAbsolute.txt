@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.dll.config
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.BLL.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.Entities.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.DAL.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.Entities.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.BLL.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\bin\EncuentroAcademico.DAL.pdb
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\obj\Debug\EncuentroAcademico.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\obj\Debug\EncuentroAcademico.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\obj\Debug\Encuentr.B2D4E269.Up2Date
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\obj\Debug\EncuentroAcademico.dll
+C:\Users\diego\OneDrive\Desktop\trabajos desarrollo\trabajo diega\EncuentroAcademico\obj\Debug\EncuentroAcademico.pdb
